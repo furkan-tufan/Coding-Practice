@@ -1,0 +1,3 @@
+﻿  Mersenne Dizisi.cpp
+C:\Users\furka\source\repos\Mersenne Dizisi\Mersenne Dizisi\Mersenne Dizisi.cpp(6,20): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Mersenne Dizisi.vcxproj -> C:\Users\furka\source\repos\Mersenne Dizisi\Debug\Mersenne Dizisi.exe

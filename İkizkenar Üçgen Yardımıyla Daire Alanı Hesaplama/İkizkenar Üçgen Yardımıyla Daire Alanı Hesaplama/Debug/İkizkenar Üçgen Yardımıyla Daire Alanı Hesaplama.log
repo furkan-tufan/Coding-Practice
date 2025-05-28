@@ -1,0 +1,6 @@
+﻿  İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama.cpp
+C:\Users\furka\source\repos\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama.cpp(11,17): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\furka\source\repos\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama.cpp(13,26): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\furka\source\repos\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama.cpp(16,19): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\furka\source\repos\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama.cpp(18,57): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama.vcxproj -> C:\Users\furka\source\repos\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama\Debug\İkizkenar Üçgen Yardımıyla Daire Alanı Hesaplama.exe
