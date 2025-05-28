@@ -1,0 +1,4 @@
+﻿  Asal ve Mersenne Dizisi.cpp
+C:\Users\furka\source\repos\Asal ve Mersenne Dizisi\Asal ve Mersenne Dizisi\Asal ve Mersenne Dizisi.cpp(10,14): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\furka\source\repos\Asal ve Mersenne Dizisi\Asal ve Mersenne Dizisi\Asal ve Mersenne Dizisi.cpp(60,29): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Asal ve Mersenne Dizisi.vcxproj -> C:\Users\furka\source\repos\Asal ve Mersenne Dizisi\Debug\Asal ve Mersenne Dizisi.exe

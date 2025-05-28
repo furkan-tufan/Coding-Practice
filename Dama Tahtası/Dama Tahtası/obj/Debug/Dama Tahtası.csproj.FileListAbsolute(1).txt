@@ -1,0 +1,10 @@
+C:\Users\furka\source\repos\Dama Tahtası\Dama Tahtası\bin\Debug\Dama Tahtası.exe.config
+C:\Users\furka\source\repos\Dama Tahtası\Dama Tahtası\bin\Debug\Dama Tahtası.exe
+C:\Users\furka\source\repos\Dama Tahtası\Dama Tahtası\bin\Debug\Dama Tahtası.pdb
+C:\Users\furka\source\repos\Dama Tahtası\Dama Tahtası\obj\Debug\Dama Tahtası.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Dama Tahtası\Dama Tahtası\obj\Debug\Dama_Tahtası.Form1.resources
+C:\Users\furka\source\repos\Dama Tahtası\Dama Tahtası\obj\Debug\Dama_Tahtası.Properties.Resources.resources
+C:\Users\furka\source\repos\Dama Tahtası\Dama Tahtası\obj\Debug\Dama Tahtası.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\Dama Tahtası\Dama Tahtası\obj\Debug\Dama Tahtası.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Dama Tahtası\Dama Tahtası\obj\Debug\Dama Tahtası.exe
+C:\Users\furka\source\repos\Dama Tahtası\Dama Tahtası\obj\Debug\Dama Tahtası.pdb
