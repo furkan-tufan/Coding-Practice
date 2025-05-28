@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Veri Tipi Oluşturma", "Veri Tipi Oluşturma\Veri Tipi Oluşturma.vcxproj", "{21DBDB70-AAE8-4F6E-BAD3-315AA4E42B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21DBDB70-AAE8-4F6E-BAD3-315AA4E42B7A}.Debug|x64.ActiveCfg = Debug|x64
+		{21DBDB70-AAE8-4F6E-BAD3-315AA4E42B7A}.Debug|x64.Build.0 = Debug|x64
+		{21DBDB70-AAE8-4F6E-BAD3-315AA4E42B7A}.Debug|x86.ActiveCfg = Debug|Win32
+		{21DBDB70-AAE8-4F6E-BAD3-315AA4E42B7A}.Debug|x86.Build.0 = Debug|Win32
+		{21DBDB70-AAE8-4F6E-BAD3-315AA4E42B7A}.Release|x64.ActiveCfg = Release|x64
+		{21DBDB70-AAE8-4F6E-BAD3-315AA4E42B7A}.Release|x64.Build.0 = Release|x64
+		{21DBDB70-AAE8-4F6E-BAD3-315AA4E42B7A}.Release|x86.ActiveCfg = Release|Win32
+		{21DBDB70-AAE8-4F6E-BAD3-315AA4E42B7A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7943441D-198E-4F0F-B544-64515360CC47}
+	EndGlobalSection
+EndGlobal

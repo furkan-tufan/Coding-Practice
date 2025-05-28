@@ -1,0 +1,5 @@
+﻿  Veri Tipi Oluşturma.cpp
+C:\Users\furka\source\repos\Veri Tipi Oluşturma\Veri Tipi Oluşturma\Veri Tipi Oluşturma.cpp(42,24): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\furka\source\repos\Veri Tipi Oluşturma\Veri Tipi Oluşturma\Veri Tipi Oluşturma.cpp(65,2): error C2601: 'main': yerel işlev tanımları geçersiz
+C:\Users\furka\source\repos\Veri Tipi Oluşturma\Veri Tipi Oluşturma\Veri Tipi Oluşturma.cpp(33): message : bu satır henüz eşlenmemiş '{' içeriyor
+C:\Users\furka\source\repos\Veri Tipi Oluşturma\Veri Tipi Oluşturma\Veri Tipi Oluşturma.cpp(33): fatal error C1075: '{': eşleşen hiçbir belirteç bulunamadı
